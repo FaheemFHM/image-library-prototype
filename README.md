@@ -26,7 +26,6 @@ Future iterations focus on rebuilding this as a full-stack web application using
 - PyQt5 - GUI framework
 - Pillow (PIL) - image processing  
 - SQLite 3 - database interactions
-- Various Python standard libraries
 
 ## Project Structure
 
