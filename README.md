@@ -3,10 +3,9 @@
 
 A desktop application built with Python and PyQt5 for managing and browsing images and videos.
 
-This project was intended to:
-- Fulfil the personal need for a slideshow application for family photos.
-- Be a way to practise GUI design, system architecture and repository management.
-- Learn a Python GUI framework, in this case PyQt5.
+This project was originally developed to explore UI design and local media management.
+
+Future iterations focus on rebuilding this as a full-stack web application using React and modern backend services.
 
 ## Sample
 
