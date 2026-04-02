@@ -59,7 +59,3 @@ image-library-app/
 ## License
 
 MIT License - feel free to use and adapt.
-
-## Extra
-
-Built as a learning project during my university break.
