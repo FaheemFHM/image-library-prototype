@@ -58,15 +58,10 @@ image-library-app/
 - Responsiveness to screen sizes
 - Video playing subsystem
 
-## Known Issues
-
-- UI still appears to freeze when loading large amounts of data
-- Adding a tag sometimes crashes the system
-
 ## License
 
 MIT License - feel free to use and adapt.
 
 ## Extra
 
-Built as a learning project during my university break. Development is ongoing, with planned future improvements.
+Built as a learning project during my university break.
